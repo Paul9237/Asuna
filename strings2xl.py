@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # coding: utf-8
 
+# 用于 Android 中 strings.xml 的文本提取生成表格
+
 import xml.sax
 import sys
 import os
